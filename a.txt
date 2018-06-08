@@ -1,3 +1,6 @@
 hello git
 hello ok
 hello byeye
+hello git
+hello ok
+hello byeye
